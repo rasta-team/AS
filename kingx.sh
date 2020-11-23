@@ -15,7 +15,7 @@ flag=0
 
 #iplist="ip.txt"
 
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/arecap98/AS/master/ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/rasta-team/AS/master/iplist.txt
 
 #if [ -f iplist ]
 #then
